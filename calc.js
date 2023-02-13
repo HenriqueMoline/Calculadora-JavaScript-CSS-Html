@@ -13,7 +13,7 @@ class Calculator{
         this.currentOperandTextElement = currentOperandTextElement;
         this.clear();
     }
-
+.
 
     formatDisplayNumber(number){
      const stringNumber = number.toString();
